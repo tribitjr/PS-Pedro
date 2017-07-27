@@ -1,0 +1,146 @@
+.white-text{
+  color: white;
+}
+
+.font-size{
+  font-size: 25px;
+}
+.much-smaller-image{
+  width:70%;
+}
+.bigger-image{
+  width: 80%;
+}
+ .smaller-image{
+   width:500px;
+}
+.gray-background{
+  background-color: gray;
+}
+ .silver-background{
+  background-color: silver;
+ }
+ .black-background{
+   background-color: black;
+    width:100%;
+}
+  .green-text{
+    color:#1474c7;
+  }
+  .text-center{
+}
+h1{
+  font-size: 25px;
+
+}
+
+.logo {
+	height: 20px;
+	width: 20px;
+}
+
+/* NAVBAR */
+.navbar-brand {
+  padding: 0px;
+}
+
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+
+.example3 .navbar-brand {
+  height: 80px;
+}
+
+.example3 .nav >li >a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.example3 .navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
+
+.navbar-alignit .navbar-header {
+    -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  height: 50px;
+}
+.navbar-alignit .navbar-brand {
+  top: 50%;
+  display: block;
+  position: relative;
+  height: auto;
+  transform: translate(0,-50%);
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.navbar-nav>li>.dropdown-menu {
+  z-index: 9999;
+}
+.cor-principal {
+	background-color:#1474c7;
+}
+
+/* /NAVBAR */
+div h1{
+  margin: 50px;
+  padding: 15px;
+}
+.navbar {
+  margin-bottom: 0px;
+}
+
+/* secao 1*/
+.secao1{
+  background: url(../Imagens/bg5.jpg) center no-repeat;
+  min-height: 200px;
+  
+
+}
+
+/* /secao 1*/
+
+/* Footer */
+
+.rodape {
+	background-color:#1474c7;
+}
+.im-baixo{
+  margin-top: 20%;
+}
+h2{
+  font-size: 25px:
+}
+.secao2{
+  background: url(../Imagens/ag.jpg) center no-repeat;
+  min-height: 60px;
+}
+.border1{
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+}
+.padding1{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.border2{
+  border-left: 0%;
+  border-right: 0%;
+}  
+.margin1{
+  margin-left: -20%;
+  margin-right: -6%;
+}
+.margin2{
+  margin-top: -4%;
+}
+.margin3{
+  margin-left: -11%;
+  margin-right: 0%;
+}
